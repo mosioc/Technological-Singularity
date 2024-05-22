@@ -1,7 +1,7 @@
 # Technological Singularity: Does the Future World Need Us? 
 Technological Singularity Paper 
 
-Although an attempt has been made to use the scientific method in the research, one should approach this paper with skepticism. I'm not a researcher, and at the time of writing this, I have no experience in publishing scientific articles.
+I have presented this article in the "research method and presentation course" of QIAU. Although an attempt has been made to use the scientific method in the research, one should approach this paper with skepticism. I'm not a researcher, and at the time of writing this, I have no experience in publishing scientific articles.
 
 PS. The article is in Persian language. References are in English.
 
